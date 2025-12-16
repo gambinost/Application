@@ -1,2 +1,2 @@
 # Application
-## Adding story for Developer A
+## Dev A story
